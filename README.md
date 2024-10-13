@@ -1,4 +1,4 @@
-# Image Processor
+# Image Editor
 
 This Python script provides a simple command-line interface for batch processing images. 
 Users can choose to resize, convert, or rotate images in a specified folder and save the processed images in a designated output folder. 
